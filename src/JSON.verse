@@ -1,4 +1,4 @@
-JSON<public> := module:
+VSON<public> := module:
     # Extension module for Unreal Engine's JSON module with string builders.
 
     using { /UnrealEngine.com/JSON }

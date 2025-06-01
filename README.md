@@ -1,4 +1,4 @@
-# VSON
+# JVSON
 'UnrealEngine.com/JSON' module extension.
 
 # Example
